@@ -1,0 +1,21 @@
+body{
+    background-color:#D5E1EF ;
+}
+.first-rec{
+    background-color:#FFFFFF ;
+    width: 320px;
+    height: 499px;
+    margin-left: 760px;
+    margin-top: 8%;
+    position: fixed;
+    border-radius: 15px;
+    
+}
+.image{margin-left: 8px;
+margin-top: 6px;}
+.title{
+    margin-left: 18px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
